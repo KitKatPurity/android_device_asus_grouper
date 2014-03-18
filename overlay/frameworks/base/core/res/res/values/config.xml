@@ -237,4 +237,7 @@
     <!-- If this is true, the screen will fade off. -->
     <bool name="config_animateScreenLights">false</bool>
 
+    <!-- enabling WifiDisplay(Miracast Source)-->
+    <bool name="config_enableWifiDisplay">true</bool>
+
 </resources>
